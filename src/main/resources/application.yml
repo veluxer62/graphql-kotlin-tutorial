@@ -1,0 +1,6 @@
+graphql:
+  packages:
+    - "com.example.graphqlkotlin.api"
+spring:
+  jpa:
+    show-sql: true
